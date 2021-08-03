@@ -20,7 +20,7 @@ Navigate to the Profile tab and locate your api-key at the top of the screen
 
 ***Example:***
 
-![API key example](https://github.com/dymux/dream/blob/master/api_example.png)
+![API key example](https://github.com/dymux/dream-android/blob/master/api_example.png)
 
 ## Demo Video (YouTube)
 Coming soon!
