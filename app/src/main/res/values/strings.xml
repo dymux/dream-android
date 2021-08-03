@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dream</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="todo">TODO</string>
+    <string name="content_description_media">Select Image</string>
+    <string name="title">Select an image</string>
+    <string name="action_1">Camera</string>
+    <string name="action_2">Gallery</string>
+    <string name="select_a_style">Select a style</string>
+    <string name="result">Result</string>
+    <string name="detail1">Create an account at <a href="https://deepai.org/">deepai.org</a></string>
+    <string name="find_your_api_key_at_the_top_of_the_screen">Navigate to the Profile tab and locate your api-key at the top of the screen</string>
+    <string name="example">Example:</string>
+</resources>
