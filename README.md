@@ -5,7 +5,7 @@ Transform your images or transfer an images style to another using DeepAI's Deep
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:dymux/Dream.git
+git clone git@github.com:dymux/dream-android.git
 ```
 ## Generating signed APK
 From Android Studio:
